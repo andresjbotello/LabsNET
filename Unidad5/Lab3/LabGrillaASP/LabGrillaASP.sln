@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabGrillaASP", "LabGrillaASP\LabGrillaASP.csproj", "{AA4CD28A-FEA3-4184-8E80-9B9402B97C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{874E4009-FA6C-4E12-87D2-CC200BA76A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA4CD28A-FEA3-4184-8E80-9B9402B97C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4CD28A-FEA3-4184-8E80-9B9402B97C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4CD28A-FEA3-4184-8E80-9B9402B97C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4CD28A-FEA3-4184-8E80-9B9402B97C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874E4009-FA6C-4E12-87D2-CC200BA76A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874E4009-FA6C-4E12-87D2-CC200BA76A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874E4009-FA6C-4E12-87D2-CC200BA76A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874E4009-FA6C-4E12-87D2-CC200BA76A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B710C1-09CB-4BDF-BC20-B2B2A29327C6}
+	EndGlobalSection
+EndGlobal
